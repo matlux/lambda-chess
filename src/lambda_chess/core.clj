@@ -10,4 +10,4 @@
 
 
 (defn -main []
-  (chess/trace-game-play my-fn my-fn))
+  (chess/trace-game-play my-fn))
