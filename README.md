@@ -83,7 +83,7 @@ choosen move: [c2 c3]
 
 And iterate as many time as it takes to implement your strategy
 
-### Submit your function onto (lambda-zone.com)[http://www.lambda-zone.com]
+### Submit your function onto [lambda-zone.com](http://www.lambda-zone.com)
 
 * go to (lambda-zone.com)[http://www.lambda-zone.com]
 * login with an OpenId of your choice
