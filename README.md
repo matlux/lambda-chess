@@ -84,7 +84,7 @@ choosen move: [c2 c3]
 * modify my-fn
 * lein run
 
-And iterate as many time as it takes to implement your strategy. a help is available [under](https://github.com/matlux/lambda-zone/wiki/Chess).
+And iterate as many time as it takes to implement your strategy. A help is available [under](https://github.com/matlux/lambda-zone/wiki/Chess).
 
 ### Submit your function onto [lambda-zone.com](http://www.lambda-zone.com)
 
