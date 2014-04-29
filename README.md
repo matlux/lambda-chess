@@ -85,7 +85,7 @@ And iterate as many time as it takes to implement your strategy
 
 ### Submit your function onto [lambda-zone.com](http://www.lambda-zone.com)
 
-* go to (lambda-zone.com)[http://www.lambda-zone.com]
+* go to [lambda-zone.com](http://www.lambda-zone.com)
 * login with an OpenId of your choice
 * give a unique name to the 'function name' field.
 * copy the anonymous function within the my-fn scope
