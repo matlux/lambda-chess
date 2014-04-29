@@ -6,7 +6,7 @@ A Clojure command line application designed to test the implementation of your f
 
 ### Quick setup
 
-* git clone https://github.com/matlux/lambda-chess.git
+* git clone git@github.com:matlux/lambda-chess.git
 * lein run
 
 ```
