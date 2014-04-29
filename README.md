@@ -11,6 +11,7 @@ Run:
     git clone git@github.com:matlux/lambda-chess.git
     lein run
 
+You should get something like this:
 ```
 $ lein run
 +---+---+---+---+---+---+---+---+
