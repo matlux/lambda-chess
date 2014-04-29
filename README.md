@@ -77,11 +77,11 @@ choosen move: [c2 c3]
 
 ### Start implementing you function
 
-* Edit src/lambda_chess/core.clj
+* Edit [src/lambda_chess/core.clj](https://github.com/matlux/lambda-chess/blob/master/src/lambda_chess/core.clj)
 * modify my-fn
 * lein run
 
-And iterate as many time as it takes to implement your strategy
+And iterate as many time as it takes to implement your strategy. a help is available [under](https://github.com/matlux/lambda-zone/wiki/Chess).
 
 ### Submit your function onto [lambda-zone.com](http://www.lambda-zone.com)
 
