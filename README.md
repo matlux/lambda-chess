@@ -1,6 +1,6 @@
 # lambda-chess
 
-A Clojure command line application designed to test the implementation of your function before you submit it to (lambda-zone.com)[http://www.lambda-zone.com].
+A Clojure command line application designed to test the implementation of your function before you submit it to [lambda-zone.com](http://www.lambda-zone.com).
 
 ## Usage
 
